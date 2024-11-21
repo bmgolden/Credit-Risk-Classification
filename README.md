@@ -5,7 +5,7 @@ Supervised Learning Module HW
 
 The principal purpose of this analysis is to help a financial institution classify potential borrowers as either low-risk, healthy, high-risk, not healthy when deciding on the loan parameters or whether they will offer a loan or not to prospective debtors. The financial institution will determine whether to implement this model based on factors that are calculated in the confusion matrix and classification report and how the model performs after training and testing the model. This model is based on Logistic Regression as it is very permeable and interpretable in situations such as this when the outcome is categorized by binary classification. The financial institution aims to utilize this basic model in hopes of mitigating potential financial losses and aiding in making smart financial decisions going forward. 
 
-Results 
+### Results 
 
 After conducting the linear classification regression and visualizing the confusion matrix and classification report hear are the summary statistics and performance metrics and what they mean analytically. 
 
